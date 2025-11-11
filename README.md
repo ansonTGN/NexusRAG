@@ -13,7 +13,7 @@ El proyecto está construido con un backend de alto rendimiento en **Rust (Axum)
 
 ---
 
-## 核心概念：Del RAG tradicional al Graph-RAG
+## NexusRAG：Del RAG tradicional al Graph-RAG
 
 El enfoque de NexusRAG enriquece el proceso RAG tradicional añadiendo una capa de inteligencia estructural.
 
